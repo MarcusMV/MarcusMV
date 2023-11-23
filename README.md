@@ -2,8 +2,10 @@
 
 - 🔬 I’m currently studying the ins and outs of Databricks and Spark..
 - 👨‍💻  I’m currently looking to explore opportunities in Data Engineering..
-- ⚡ Fun fact: I've recently completed an immersive Data Engineering course at AiCore!
-<!--
+- ⚡ Fun fact: I've recently completed an immersive Data Engineering course at AiCore.
+
+Take a look at my projects below!
+<!-- 
 **MarcusMV/MarcusMV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
