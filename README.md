@@ -4,7 +4,7 @@
 - 👨‍💻  I’m currently looking to explore opportunities in Data Engineering..
 - ⚡ Fun fact: I've recently completed an immersive Data Engineering course at AiCore.
 
-Take a look at my projects below!
+Take a look at my projects pinned below! 📌👇
 <!-- 
 **MarcusMV/MarcusMV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
