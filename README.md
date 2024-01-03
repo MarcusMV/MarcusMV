@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔬 I’m currently studying the ins and outs of Databricks and Spark..
+- 🔬 I’m currently studying Databricks and Azure..
 - 👨‍💻  I’m currently looking to explore opportunities in Data Engineering..
 - ⚡ Fun fact: I've recently completed an immersive Data Engineering course at AiCore.
 
